@@ -1,4 +1,6 @@
-#NewsAlert 
+# NewsAlert
+
+ A News App that gives you a daily new dose of news free!! This app is build by using React.js and API.
 
 A News App that gives you a new dose of news every day.This app is build by using React.js and API.
 
